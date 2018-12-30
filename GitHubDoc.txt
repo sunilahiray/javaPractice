@@ -3,27 +3,40 @@
 
 		1) Get clone from respository
 
-		-- git clone <URL...>
+			-- git clone <URL...>
 
 		2) Create new branch
-		-- git checkout -b <new branch name>
+		
+			-- git checkout -b <new branch name>
 
 		3) Switch one branch to another branch
-		-- git checkout <branch name>
+		
+			-- git checkout <branch name>
 
 		4) Sync the master branch
-		-- git fetch origin master
+		
+			-- git fetch origin master
 
 		5) Check status
-		-- git status
+		
+			-- git status
 
 		6) Add file 
-		--git add <file name>
+		
+			--git add <file name>
 
 		7) Add all file
-		--git add .*
+		
+			--git add .*
 
-
+		8) Commit the changes
+		
+			-- git commit -m "comment"
+		
+		9)  Push the changes in master branch
+			
+			-- git push origin master
+		
 
 		Create an empty git repo or reinitialize an existing one
 
